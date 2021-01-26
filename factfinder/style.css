@@ -1,0 +1,37 @@
+div{
+	border:2px solid black;
+	margin:10px;
+	border-radius:10px;
+	padding: 10px;
+}
+
+body{
+	background-color: antiqueWhite;
+}	
+
+#showFacts{
+	background-color: snow;
+	height: 500px;
+	width: 500px;
+}
+
+input{
+	border-radius: 10px;
+	background-color: salmon;
+	width: 100px;
+	height: 50px;
+}
+
+input:hover{
+	background-color: lightblue;
+	border-radius: 10px;s
+	left: 500px;
+}
+
+img{
+	width: 400px;
+	justify-content: center;
+	align-items: center;
+	margin: 20px;
+}
+
