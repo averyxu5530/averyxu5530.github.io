@@ -53,7 +53,8 @@ button{
 	background-color: #2F4F4F;
 	margin: 30px;
 	font-family: 'Bebas Neue', cursive;
-	border: 1px solid #382633;
+	border: 5px solid #002626;
+	border-radius: 10px;
 }
 
 button:hover{
