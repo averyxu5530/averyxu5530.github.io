@@ -1,6 +1,6 @@
 var currentPlayer = 1; 	//current player one or two
 var plays = 0;			//counts the number of plays
-var gameOn = true;
+var gameOn = true;		//variable to prevent plying once game is over
 
 var board = document.querySelector("#board");	//selects the board
 
